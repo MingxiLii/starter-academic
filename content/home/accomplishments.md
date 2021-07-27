@@ -29,7 +29,7 @@ item:
   description: "Undergraduate Academic and Technology Contest Scholarship of “National CHENGDA CUP”"
   organization: Sichuan University
   organization_url:
-  title: Neural Networks and Deep Learning
+  title: Contest Scholarship
   url: ""
 - certificate_url:
   date_end: ""
@@ -43,7 +43,7 @@ item:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: "First Prize in the Final of the National Experiment Competition of Chemical Engineering for College Students"
-  organization: DataCamp
+  organization: Universities
   organization_url:
   title:  Nationaal First Prize
   url: ""
