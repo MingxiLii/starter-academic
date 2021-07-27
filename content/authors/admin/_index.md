@@ -62,4 +62,3 @@ highlight_name: false
 ---
 I am a Ph.D. candidate of transportation engineeering at the PolyU Mobility-AI Lab. My research interests include deep learning, urban computing and multi-source data mining. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
