@@ -31,12 +31,12 @@ content:
     tag: Transfer Learning
   - name: Crowd-sourcing Data Mining
     tag: Machine Learning
-  -name: Transpotation Optimization
-   tag: Simulation and Optimization 
+  - name: Transpotation Optimization
+    tag: Simulation and Optimization 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
