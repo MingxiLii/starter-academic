@@ -25,6 +25,7 @@ experience:
   - title: Research Assistant 
     company: Westlake University
     company_url: 'https://en.westlake.edu.cn/'
+    company_logo: westlake
     location: Hangzhou, Zhejiang
     date_start: '2021-03-25'
     date_end: '2021-07-05'
