@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2020-09-01"
+  description: "Ph.D. Scharlorship of Hong Kong Polytechnic University”"
+  organization: Hong Kong Polytechnic University
+  organization_url:
+  title: Fast Track Scholarship
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2018-12-01"
   description: "Undergraduate Academic and Technology Contest Scholarship of “National CHENGDA CUP”"
   organization: Sichuan University
