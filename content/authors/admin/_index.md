@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Transpotation Engineering
+  - course: PhD in Transportation Engineering
     institution: The Hong Kong Polytechnic University
     year: expected 2024
   - course: BEng in Chemical Engineering
@@ -60,6 +60,6 @@ email: "mingxi-chloe.li@connect.polyu.hk"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. candidate of transpotation engineeering at the PolyU Mobility-AI Lab. My research interests include deep learning, urban computing and multi-source data mining. 
+I am a Ph.D. candidate of transportation engineeering at the PolyU Mobility-AI Lab. My research interests include deep learning, urban computing and multi-source data mining. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
