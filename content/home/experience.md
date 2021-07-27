@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant 
     company: Westlake University
     company_url: 'https://en.westlake.edu.cn/'
-    company_logo: org-gc
+    company_logo: westlake
     location: California
     date_start: '2021-03-25'
     date_end: '2021-07-05'
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: University of Pittsburgh
     company_url: 'https://www.pitt.edu/'
-    company_logo: org-x
+    company_logo: pitt
     location: California
     date_start: '2019-07-01'
     date_end: '2020-03-01'
