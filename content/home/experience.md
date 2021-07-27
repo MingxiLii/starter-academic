@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant 
     company: Westlake University
     company_url: 'https://en.westlake.edu.cn/'
-    location: California
+    location: Hangzhou, Zhejiang
     date_start: '2021-03-25'
     date_end: '2021-07-05'
     description: RA in Advanced Materials Additive Manufacturing laborotory
@@ -33,7 +33,7 @@ experience:
   - title: Research Assistant
     company: University of Pittsburgh
     company_url: 'https://www.pitt.edu/'
-    location: California
+    location: Pittsburgh
     date_start: '2019-07-01'
     date_end: '2020-03-01'
     description: RA in ZIP-AM（Additive Manufacturing）laborotory
