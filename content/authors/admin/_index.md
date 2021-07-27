@@ -43,6 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MingxiLii
+- icon: users
+  icon_pack: fas
+  link: http://polyu-mobility-ai-lab.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -57,6 +60,6 @@ email: "mingxi-chloe.li@connect.polyu.hk"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. candidate of transpotation engineeering at the PolyU Mobility-AI Lab. My research interests include machine learning, urban computing and transfer learning. 
+I am a Ph.D. candidate of transpotation engineeering at the PolyU Mobility-AI Lab. My research interests include deep learning, urban computing and multi-source data mining. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
