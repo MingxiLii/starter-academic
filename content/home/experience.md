@@ -33,7 +33,6 @@ experience:
   - title: Research Assistant
     company: University of Pittsburgh
     company_url: 'https://www.pitt.edu/'
-    company_logo: pitt
     location: California
     date_start: '2019-07-01'
     date_end: '2020-03-01'
