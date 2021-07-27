@@ -6,7 +6,7 @@ title: Mingxi LI
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Transpotation Engineering
+role: Ph.D. candidate in Transportation Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
