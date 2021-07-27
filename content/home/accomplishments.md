@@ -23,36 +23,36 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
+  date_start: "2018-12-01"
+  description: "Undergraduate Academic and Technology Contest Scholarship of “National CHENGDA CUP”"
+  organization: Sichuan University
+  organization_url:
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url:
   date_end: ""
   date_start: "2018-11-01"
   description: "First-class Scholarship of All-around Development in the academic year of 2017-2018, Sichuan University"
   organization: Sichuan University
-  organization_url: https://www.edx.org
+  organization_url:
   title: First-class Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+- certificate_url:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: "First Prize in the Final of the National Experiment Competition of Chemical Engineering for College Students"
   organization: DataCamp
-  organization_url: https://www.datacamp.com
+  organization_url:
   title:  Nationaal First Prize
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url:
   date_end: "2016-09-01"
   date_start: "2018-09-01"
   description: " Outstanding Student in the academic year of 2016-2017 and f 2017-2018, Sichuan University"
   organization: Sichuan University
-  organization_url: https://www.datacamp.com
+  organization_url:
   title:  Outstanding Student
   url: ""
 design:
