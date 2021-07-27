@@ -26,7 +26,7 @@ experience:
     company: Westlake University
     company_url: 'https://en.westlake.edu.cn/'
     company_logo: westlake
-    location: California
+    [location: California]
     date_start: '2021-03-25'
     date_end: '2021-07-05'
     description: |2-
@@ -40,7 +40,7 @@ experience:
     company: University of Pittsburgh
     company_url: 'https://www.pitt.edu/'
     company_logo: pitt
-    location: California
+    [location: California]
     date_start: '2019-07-01'
     date_end: '2020-03-01'
     description: Taught electronic engineering and researched semiconductor physics.
