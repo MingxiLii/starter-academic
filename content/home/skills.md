@@ -20,11 +20,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 100%
+- description: 70%
   icon: bug
   icon_pack: fas
   name: Deep Learning
-- description: 10%
+- description: 70%
   icon: road
   icon_pack: fas
   name: Urban Computing
