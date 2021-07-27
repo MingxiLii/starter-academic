@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Transductive Learing in Traffic Domain
+  - name: Transductive Learning in Traffic Domain
     tag: Transfer Learning
   - name: Crowd-sourcing Data Mining
     tag: Machine Learning
