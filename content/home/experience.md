@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant 
-    company: GenCoin
-    company_url: ''
+    company: Westlake University
+    company_url: 'https://en.westlake.edu.cn/'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-03-25'
+    date_end: '2021-07-05'
     description: |2-
         Responsibilities include:
         
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Assistant
+    company: University of Pittsburgh
+    company_url: 'https://www.pitt.edu/'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-07-01'
+    date_end: '2020-03-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
