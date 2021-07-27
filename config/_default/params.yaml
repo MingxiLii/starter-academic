@@ -23,33 +23,26 @@ twitter: ''
 email: mingxi-chloe.li@connect.polyu.hk
 phone: 852 63476403
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Hung Hom, Kowloon
+  city: Hong Kong
+  region: HK
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  latitude: '22.3038'
+  longitude: '114.1830'
+directions: Enter Z block, and take the elevator to room ZN902 on Floor 9
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: whatsapp-square
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Whatsapp Me
+    link: 'https://wa.me/63476403'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link: 'https://join.skype.com/invite/uceiJvVzDczC'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
