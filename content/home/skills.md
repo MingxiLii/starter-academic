@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: 'fa-python'
-  icon_pack: 'fa'
+  icon: python
+  icon_pack: fab
   name: Python
 - description: 100%
-  icon: fa-bug
+  icon: bug
   icon_pack: fas
   name: Deep Learning
 - description: 10%
-  icon: fa-road
+  icon: road
   icon_pack: fas
   name: Urban Computing
 
