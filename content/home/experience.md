@@ -38,7 +38,7 @@ experience:
     [location: California]
     date_start: '2019-07-01'
     date_end: '2020-03-01'
-    description: RA in ZIP-AM （Additive Manufacturing） laborotory
+    description: RA in ZIP-AM（Additive Manufacturing）laborotory
 
 design:
   columns: '2'
