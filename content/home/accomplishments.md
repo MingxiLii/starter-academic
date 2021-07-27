@@ -33,21 +33,28 @@ item:
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  date_start: "2018-11-01"
+  description: "First-class Scholarship of All-around Development in the academic year of 2017-2018, Sichuan University"
+  organization: Sichuan University
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: First-class Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
-  description: ""
+  description: "First Prize in the Final of the National Experiment Competition of Chemical Engineering for College Students"
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title:  Nationaal First Prize
   url: ""
-
+- certificate_url: https://www.datacamp.com
+  date_end: "2016-09-01"
+  date_start: "2018-09-01"
+  description: " Outstanding Student in the academic year of 2016-2017 and f 2017-2018, Sichuan University"
+  organization: Sichuan University
+  organization_url: https://www.datacamp.com
+  title:  Outstanding Student
+  url: ""
 design:
   columns: '2' 
 ---
