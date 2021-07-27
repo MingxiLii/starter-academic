@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Transductive Learing in Traffic Domain
+    tag: Transfer Learning
+  - name: Crowd-sourcing Data Mining
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
