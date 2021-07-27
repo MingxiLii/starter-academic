@@ -26,7 +26,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-09-01"
-  description: "Ph.D. Scharlorship of Hong Kong Polytechnic University”"
+  description: "Ph.D. Scharlorship of Hong Kong Polytechnic University”
   organization: Hong Kong Polytechnic University
   organization_url:
   title: Fast Track Scholarship
