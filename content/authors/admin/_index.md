@@ -20,7 +20,7 @@ bio: My research interests include urban computing and transfer learning , espec
 interests:
 - Deep Learning 
 - Urban Computing
-- Transfer Learning
+- Multi-sourced Data Mining
 
 # Education to show in About widget
 education:
