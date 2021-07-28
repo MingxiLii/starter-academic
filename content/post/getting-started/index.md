@@ -42,7 +42,7 @@ categories:
 ## Overview
 
 Just for practice
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://pic1.zhimg.com/v2-05b6ae73e0370f379665b173c0f18784_r.jpg?source=1940ef5c" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 ## Get Started
 
