@@ -48,12 +48,20 @@ item:
   title: First-class Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url:
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: ""
+  date_start: "2018-08-01"
   description: "First Prize in the Final of the National Experiment Competition of Chemical Engineering for College Students"
   organization: Universities
   organization_url:
-  title:  Nationaal First Prize
+  title:  National First Prize
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2017-11-01"
+  description: "Zhang Hongyuan Superior Scholarship in the academic year of 2016-2017, Sichuan University"
+  organization: Sichuan University
+  organization_url:
+  title:  Zhang Hongyuan Superior Scholarship
   url: ""
 - certificate_url:
   date_end: "2016-09-01"
